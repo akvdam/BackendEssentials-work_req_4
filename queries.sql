@@ -1,4 +1,5 @@
     -- 1. SQL queries
+
 .mode column
 .headers on
 
